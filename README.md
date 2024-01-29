@@ -4,7 +4,7 @@ My name is Thasvarit (@touchvarit.) I study engineering during the day and read 
 What I'm doing now   
 •  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/) by day, and book lover by night.    
 •  📝 Writing at [Scale](https://scaleth.com/) and [QuantCorner](https://www.quant-corner.com/)  (both for less than three months as of January 2024)  
-•  🌐 I Love "Show Your Work!" by Austin Kleon and [Learning in Public](https://www.swyx.io/learn-in-public) by xycd and trying to implement them on my Facebook account.  
+•  🌐 I Love "Show Your Work!" by Austin Kleon and [Learning in Public](https://www.swyx.io/learn-in-public) by Swyx and trying to implement them on my Facebook account.  
 •  📚 My hobby are reading Richard Feynman's books, creating abstract art, and enjoying SNES games. 
 
 What I have done  

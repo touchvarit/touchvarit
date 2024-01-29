@@ -1,4 +1,4 @@
-### 👋 HI! Hey there, I'm Thasvarit (@touchvarit)   
+### 👋 HI!, I'm Thasvarit (@touchvarit)   
 My name is Thasvarit (@touchvarit.) I study engineering during the day and read my favorite books at home at night.
 
 What I'm doing now   

@@ -2,7 +2,7 @@
 My name is Thasvarit (@touchvarit.) I study engineering during the day and read my favorite books at home at night.
 
 What I'm doing now   
-•  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/) by day, and a curious mind diving into favorite books by night.   
+•  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/) by day, and book lover by night.   
 •  💻 Former data analyst at [SPACE AC Institute of Tech](https://spaceac.net/), skilled in engineering simulation, 3D modeling, and basic stats analysis.  
 •  📝 Writing at [Scale](https://scaleth.com/) and [QuantCorner](https://www.quant-corner.com/)  (both for less than three months as of January 2024)  
 •  🌐 I Love "Show Your Work!" by Austin Kleon and [Learning in Public](https://www.swyx.io/learn-in-public) by xycd and trying to implement them on my Facebook account.  

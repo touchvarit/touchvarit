@@ -1,7 +1,7 @@
 ### HI! 👋
 My name is Thasvarit (@touchvarit.) I study engineering during the day and read my favorite books at home at night.
 
-What I'm doing now 
+What I'm doing now   
 •  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/).  
 •  🔧 Fun Fact: Despite my dad being an engineer, I never considered this faculty until my friend convinced me that engineers don't only build houses; they create anything they want!  
 •  💻 Former data analyst at [SPACE AC Institute of Tech](https://spaceac.net/), skilled in engineering simulation, CAD design, Python, and stats.  

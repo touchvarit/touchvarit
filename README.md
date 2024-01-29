@@ -3,7 +3,7 @@
 Hello, I'm Note
 
 •  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/).  
-•  🔧 Fun Fact: Despite my dad being an engineer, I never considered this faculty until my friend convinced me that engineers don't only build houses; they create anything they want!
+•  🔧 Fun Fact: Despite my dad being an engineer, I never considered this faculty until my friend convinced me that engineers don't only build houses; they create anything they want!  
 •  💻 Former data analyst at [SPACE AC Institute of Tech](https://spaceac.net/), skilled in engineering simulation, CAD design, Python, and stats.  
 •  📝 Writing at [Scale](https://scaleth.com/) and [QuantCorner](https://www.quant-corner.com/)  
 •  🌐 Love "Show Your Work!" by Austin Kleon and [Learning in Public](https://www.swyx.io/learn-in-public) by xycd and trying to implement them on my Facebook account.  

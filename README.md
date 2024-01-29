@@ -12,5 +12,5 @@ Hello, I'm Note
 
 
 ## Links 
-•  [Facebook](https://www.facebook.com/profile.php?id=61555217410615)
+•  [Facebook](https://www.facebook.com/profile.php?id=61555217410615)  
 •  [My Blog](https://touchvarit.com/)

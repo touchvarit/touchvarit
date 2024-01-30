@@ -1,5 +1,4 @@
 ### 👋 HI!, I'm Thasvarit (@touchvarit)   
-My name is Thasvarit (@touchvarit.) I study engineering during the day and read my favorite books at home at night.
 
 What I'm doing now   
 •  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/) by day, and book lover by night.    

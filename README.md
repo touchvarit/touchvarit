@@ -1,7 +1,7 @@
 ### 👋 HI!, I'm Thasvarit (@touchvarit)   
 
 What I'm doing now (Updated: 01-Feb-2024)  
-•  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/). 
+•  🎓 Freshman engineering student at [Chulalongkorn University](https://www.chula.ac.th/en/academic/faculty-of-engineering/).   
 •  📝 Writing at [Scale](https://scaleth.com/) and [QuantCorner](https://www.quant-corner.com/)  (both for less than three months as of January 2024)  
 •  🌐 I Love "Show Your Work!" by Austin Kleon and [Learning in Public](https://www.swyx.io/learn-in-public) by Swyx and trying to implement them on my Facebook account.  
 •  ✨ I use GitHub to open-source my learning journey, making it accessible for anyone—including myself—to revisit. The writing format draws inspiration from Vivatsathorn Thitasirivit work.  

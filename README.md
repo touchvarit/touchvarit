@@ -1,6 +1,6 @@
 ### 👋 HI!, I'm Thasvarit (@touchvarit)   
 
-What I'm doing now (Updated: 01-Feb-2024)  
+What I'm doing now (Updated: 12-Feb-2024)  
 •  🎓 Thai freshman engineering student   
 •  📝 Writing at [Scale](https://scaleth.com/author/note/) and [QuantCorner](https://www.quant-corner.com/)  (both for less than three months as of January 2024)  
 •  🌐 I Love "Show Your Work!" by Austin Kleon and [Learning in Public](https://www.swyx.io/learn-in-public) by Swyx and trying to implement them on my Facebook account.  

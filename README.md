@@ -7,4 +7,4 @@ What I'm doing now (Updated: 11-July-2024)
 
 ## Links 
 • 🌱 [Facebook](https://www.facebook.com/profile.php?id=61555217410615)  
-• 📁 [My Personal Website]([https://touchvarit.com/](https://touchvarit.github.io/))
+• 📁 [My Personal Website]([https://touchvarit.com/](https://touchvarit.github.io/)
